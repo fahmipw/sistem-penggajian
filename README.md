@@ -1,4 +1,4 @@
-<img width="936" height="284" alt="{0F2A3E15-467F-4C17-A6A0-AC2098C7B86D}" src="https://github.com/user-attachments/assets/0d5b6124-280b-40b6-94c3-5f3a1970c735" /># sistem-penggajian
+
 <img width="395" height="245" alt="{62B1DF3E-54E4-4ED2-8DE2-2604CEFCB42E}" src="https://github.com/user-attachments/assets/4e22f2a4-28ad-4714-982e-24526ae6f328" />
 <img width="952" height="397" alt="{88F4DD03-C0ED-45D7-9C85-781CA6497F61}" src="https://github.com/user-attachments/assets/1a14485f-1034-4239-ba81-c561a24dff33" />
 <img width="936" height="284" alt="{0F2A3E15-467F-4C17-A6A0-AC2098C7B86D}" src="https://github.com/user-attachments/assets/0532534e-1f8f-4a0c-bc4d-431cdb9df209" />
